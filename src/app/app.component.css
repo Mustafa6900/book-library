@@ -1,0 +1,30 @@
+:host {
+    display: block;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #0066cc;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  nav a {
+    padding: 5px 10px;
+    background-color: #0066cc;
+    color: white;
+    border-radius: 4px;
+  }
+  
+  nav a:hover {
+    background-color: #004999;
+    text-decoration: none;
+  }

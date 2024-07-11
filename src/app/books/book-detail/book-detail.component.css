@@ -1,0 +1,30 @@
+:host {
+    display: block;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  h2 {
+    color: #0066cc;
+    margin-top: 0;
+  }
+  
+  div {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  textarea {
+    height: 100px;
+  }
